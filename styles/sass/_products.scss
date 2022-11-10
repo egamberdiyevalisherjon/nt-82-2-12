@@ -1,0 +1,7 @@
+section#products {
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3rem;
+    justify-items: center;
+  }
+}

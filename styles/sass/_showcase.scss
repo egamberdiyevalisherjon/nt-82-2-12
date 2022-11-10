@@ -1,0 +1,9 @@
+section#showcase {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: url(../../images/desktop.jpg) center / cover no-repeat fixed;
+  color: $white;
+}
